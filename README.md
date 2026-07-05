@@ -1,8 +1,3 @@
-# Scenario-Driven-Architecture
-Описание методологии для структурирования проектов
-
----
-
 # Scenario-Driven Architecture (SDA)
 
 **Архитектура, управляемая сценариями**
